@@ -12,7 +12,8 @@ This project involves analyzing retail sales data using SQL to extract meaningfu
 ## 🗃️ Dataset
 
 - Tables used: SQL - Retail Sales Analysis
-- Sample columns: 
+- Sample columns:  'Transactions_id' I, 'Sale_date', 'Sale_time', 'Customer_id', 'Gender', 'Age', 'Category', 'Quantiy', 'Price_per_unit', 'Cost', 'Total_sale'
+
 
 ## 🧠 Key Insights
 
@@ -48,5 +49,5 @@ This project involves analyzing retail sales data using SQL to extract meaningfu
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/gaurav1608/)
-- 🌟 Star the repo if you find it helpful!
+
 
