@@ -2,7 +2,7 @@ create database Retail_sales;
 use Retail_sales;
 
 Create table  Retail_Sales_Data
-						      (  Transactions_id Int primary key,
+			       (  Transactions_id Int primary key,
                                   Sale_date	date,
                                   Sale_time	time,
                                   Customer_id	int,
@@ -29,7 +29,7 @@ having count(*) >1;
 
 
 
-#Data Analysis & Business Key Problems & Answers--
+#Data Analysis & Business Key Problems & Answers
 
 #Q.1 Write a SQL query to retrieve all columns for sales made on '2022-11-05;
 
